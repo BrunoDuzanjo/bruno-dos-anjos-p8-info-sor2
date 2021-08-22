@@ -1,1 +1,2 @@
-# bruno-dos-anjos-p8-info-sor2
+# Sistema Operacionais de Redes 2
+## Prof. Ricardo Duarte Taveira
